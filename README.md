@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me
 <div align="center">
-<h1 align="center">Hi there, I'm <a href="">Thais</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="">Christian</a> (Hakris)👋</h1>
 </div>
 
 Hi there! I'm a software developer graduated from **Technical University of Ambato**, Ecuador. My passion lies in **FrontEnd** development, but I have knowledge in **Full Stack**, making me a well-rounded developer capable of handling all stages of software development.
