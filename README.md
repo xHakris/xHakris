@@ -3,11 +3,11 @@
 <h1 align="center">Hi there, I'm <a href="">Christian</a> (Hakris)👋</h1>
 </div>
 
-Hi there! I'm a software developer graduated from **Technical University of Ambato**, Ecuador. My passion lies in **FrontEnd** development, but I have knowledge in **Full Stack**, making me a well-rounded developer capable of handling all stages of software development.
+Hi there! I'm a software developer. I tryed all the branches of the software development and just specialized in **FrontEnd** development, but I have knowledge in **Full Stack**, making me a well-rounded developer capable of handling all stages of software development.
 
 ### 📚 Education
 
-- **Technical University of Ambato** - Bachelor's in Systems Engineering
+- **Technical University of Ambato** - Software Engineering
 
 ### 🌐 Languages
 
@@ -56,10 +56,6 @@ Hi there! I'm a software developer graduated from **Technical University of Amba
 
 ### 🌟 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [LinkedIn](https://www.linkedin.com/in/christian-gaibor/)
 - [Twitter](https://twitter.com/your-profile/)
 
-### 🌟 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-profile/)
