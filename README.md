@@ -11,7 +11,7 @@ Hi there! I'm a software developer graduated from **Technical University of Amba
 
 ### 🌐 Languages
 
-- Spanish 🇪🇸
+- Spanish 🇪🇸 
 - English 🇬🇧
 - Italian 🇮🇹
 
