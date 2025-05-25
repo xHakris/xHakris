@@ -11,9 +11,9 @@ Hi everyone! My name is Christian and I'm a software developer. I tryed all the 
 
 ### 🌐 Languages
 
-- Spanish 🇪🇸 
-- English 🇬🇧
-- Italian 🇮🇹
+- Spanish (Native)
+- English (8/10)
+- Italian (7/10)
 
 ### 💼 Skills
 
