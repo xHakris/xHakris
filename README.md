@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="">Christian</a> (Hakris)👋</h1>
 </div>
 
-Hi everyone! I'm Christian, a versatile software developer specialized in **FrontEnd** development with strong **Full Stack** capabilities. Passionate about creating seamless user experiences and robust systems.
+Hi everyone! I'm a software developer. I tryed all the branches of the software development and just specialized in **FrontEnd** development, but I have knowledge in **Full Stack**, making me a well-rounded developer capable of handling all stages of software development.
 
 ### 📚 Education
 
