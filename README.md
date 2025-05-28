@@ -11,9 +11,9 @@ Hi everyone! I'm Christian, a versatile software developer specialized in **Fron
 
 ### 🌐 Languages
 
-- Spanish (Native)
-- English (8/10)
-- Italian (7/10)
+- Spanish
+- English 8/10
+- Italian 7/10
 
 ### 💼 Skills
 
@@ -52,19 +52,12 @@ Hi everyone! I'm Christian, a versatile software developer specialized in **Fron
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
 
-#### Design & AI
+#### Skills
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Generation-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🌟 Featured Projects
-
-- **AI Chatbots**: Rasa-powered conversational interfaces
-- **Cross-platform Apps**: React Native and Android solutions
-- **Design Systems**: From Figma prototypes to production code
-
 ### 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/christian-gaibor/)
-- [Portfolio](#) (add your portfolio link here)
