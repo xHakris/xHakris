@@ -12,7 +12,7 @@ Hi everyone! I'm a software developer. I tried all the branches of the software 
 ### 🌐 Languages
 
 - Spanish
-- English 8/10
+- English 9/10
 - Italian 7/10
 
 ### 💼 Skills
